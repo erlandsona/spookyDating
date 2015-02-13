@@ -1,4 +1,6 @@
 # spookyDating
+
+[![Join the chat at https://gitter.im/erlandsona/spookyDating](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/erlandsona/spookyDating?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Dating app for valentines day
 
 [![Fabulous](https://img.shields.io/badge/fabulosity-maximum-ff69b4.svg)](http://lolsnaps.com/upload_pic/PleaseExcuseMyFabulousness-86590.jpg)
